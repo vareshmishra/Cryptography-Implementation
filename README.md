@@ -4,4 +4,4 @@ The purpose of this repository is not to achieve efficieny and computational spe
 
 This is only for demonstration of certain algorithms and its working procedure. 
 
-DO NOT USE !
+Not fit for usage. Do Not Use for any security purposes. 
